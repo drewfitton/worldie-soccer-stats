@@ -12,9 +12,9 @@ Worldie Soccer Stats is an iOS App that allows you to view match info, league st
 
 All data is pulled from the [Football Data API](https://www.football-data.org).
 <div class="row">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/D4spf4B/Screenshot-2024-09-12-at-9-51-11-PM.png" width="300" alt="Screenshot-2024-09-12-at-9-51-11-PM" border="0" /></a>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Lpxyw9x/Screenshot-2024-09-12-at-9-51-25-PM.png" width="300" alt="Screenshot-2024-09-12-at-9-51-25-PM" border="0" /></a>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/TYK5TJq/Screenshot-2024-09-12-at-9-51-01-PM.png" width="300" alt="Screenshot-2024-09-12-at-9-51-01-PM" border="0" /></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/D4spf4B/Screenshot-2024-09-12-at-9-51-11-PM.png" width="200" alt="Screenshot-2024-09-12-at-9-51-11-PM" border="0" /></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Lpxyw9x/Screenshot-2024-09-12-at-9-51-25-PM.png" width="200" alt="Screenshot-2024-09-12-at-9-51-25-PM" border="0" /></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/TYK5TJq/Screenshot-2024-09-12-at-9-51-01-PM.png" width="200" alt="Screenshot-2024-09-12-at-9-51-01-PM" border="0" /></a>
 </div>
 
 ## Features
