@@ -6,14 +6,16 @@
    * [Matches](#matches)
    * [League Standings](#league-standings)
    * [Top Scorers](#top-scorers)
-4. [Build](#build)
-5. [Get Started](#get-started)
-6. [Contact](#contact)
-
+3. [Get Started](#get-started)
 ## Overview
 Worldie Soccer Stats is an iOS App that allows you to view match info, league standings, and top scorers amongst European soccer leagues. You can view matches by date for the current season, including seeing past results and future match dates and times. You can aso view league standings and top scorers for any of the past 5 seasons.
 
 All data is pulled from the [Football Data API](https://www.football-data.org).
+<div class="row">
+  <img src="https://imgur.com/a/26fEv1H">
+  <img src="">
+  <img src="">
+</div>
 
 ## Features
 
@@ -32,8 +34,15 @@ All data is pulled from the [Football Data API](https://www.football-data.org).
 #### View Top Scorers by year
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIweTY2Yzdlc3I0NmRjY3FrdW13dmY0dTJsaDB4eWFpczA3a243bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RM9aJBg76v3SCA6N2I/giphy.gif">
 
-## Build
-
 ## Get Started
+Worldie soccer stats is built in XCode with SwiftUI. It requires iOS version > 15.0 and having XCode + iOS simulator installed on your Mac. 
 
-## Contact
+### Required Swift packages
+In order to run Worldie Soccer Stats, first add the following package dependencies:
+* CocoaLumberjack (3.8.5)
+* SVGKit
+
+### Football-Data API key
+Next, you need to go to the website for [Football Data API](https://www.football-data.org) and retrieve your custom API key. You can do so by making an account, and you'll receive your key via email. Place this key as the apiKey variable in the WorldieSoccerStatsApp swift file. 
+
+Just like that, you're ready to run the Worldie Soccer Stats app!
