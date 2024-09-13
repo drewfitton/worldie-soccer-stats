@@ -16,6 +16,7 @@ All data is pulled from the [Football Data API](https://www.football-data.org).
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/Lpxyw9x/Screenshot-2024-09-12-at-9-51-25-PM.png" width="300" alt="Screenshot-2024-09-12-at-9-51-25-PM" border="0" /></a>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/TYK5TJq/Screenshot-2024-09-12-at-9-51-01-PM.png" width="300" alt="Screenshot-2024-09-12-at-9-51-01-PM" border="0" /></a>
 </div>
+
 ## Features
 
 ### Matches
