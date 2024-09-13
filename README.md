@@ -13,6 +13,8 @@
 ## Overview
 Worldie Soccer Stats is an iOS App that allows you to view match info, league standings, and top scorers amongst European soccer leagues. You can view matches by date for the current season, including seeing past results and future match dates and times. You can aso view league standings and top scorers for any of the past 5 seasons.
 
+All data is pulled from the [Football Data API](www.football-data.org).
+
 ## Features
 
 ### Matches
