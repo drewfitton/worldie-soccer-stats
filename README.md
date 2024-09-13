@@ -12,9 +12,9 @@ Worldie Soccer Stats is an iOS App that allows you to view match info, league st
 
 All data is pulled from the [Football Data API](https://www.football-data.org).
 <div class="row">
-  <img src="https://imgur.com/a/26fEv1H">
-  <img src="">
-  <img src="">
+  <img src="https://ibb.co/XJ7PBF7">
+  <img src="https://ibb.co/Wnqtvnr">
+  <img src="https://ibb.co/ckbdvRX">
 </div>
 
 ## Features
