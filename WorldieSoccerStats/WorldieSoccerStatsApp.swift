@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-let apiKey = "2a59e2ed31cb4c499f4483d5188a1d2d"
+let apiKey = "YOUR_KEY_HERE"
 
 @main
 struct WorldieSoccerStatsApp: App {
